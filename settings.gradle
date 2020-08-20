@@ -1,0 +1,2 @@
+rootProject.name='Shoptimize'
+include ':app'
